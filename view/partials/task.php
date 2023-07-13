@@ -23,21 +23,12 @@
 			</section>
 			
 			<div class="container1">
-				<!-- <div class="row">
-					<div class="col-sm d-flex justify-content-between align-items-center">
-						Tarea
-					</div>
-					<div class="col-sm">
-						Acción
-					</div>
-				</div> -->
 
 				<table class="table table-hover">
 				<thead>
 					<tr>
 						<th scope="col-sm d-flex justify-content-between align-items-center">Tarea</th>
 						<th scope="col-sm">Acciones</th>
-						<th scope="col-sm">Finalizar</th>
 					</tr>
 				</thead>
 				<tbody id="todos-list">
